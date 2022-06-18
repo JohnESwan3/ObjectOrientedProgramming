@@ -1,0 +1,15 @@
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.csproj.AssemblyReference.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.AssemblyInfo.cs
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/bin/Debug/net6.0/ClassesAndObjects
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/bin/Debug/net6.0/ClassesAndObjects.deps.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/bin/Debug/net6.0/ClassesAndObjects.runtimeconfig.json
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/bin/Debug/net6.0/ClassesAndObjects.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/bin/Debug/net6.0/ClassesAndObjects.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/refint/ClassesAndObjects.dll
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.pdb
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ClassesAndObjects.genruntimeconfig.cache
+/home/johneswan3/Documents/code/BackEnd/Udemy/C#/ObjectOrientedProgramming/ClassesAndObjects/ClassesAndObjects/obj/Debug/net6.0/ref/ClassesAndObjects.dll
