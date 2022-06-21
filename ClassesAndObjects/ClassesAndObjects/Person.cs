@@ -37,4 +37,9 @@ public class Person
     {
         return $"{FirstName} {LastName}";
     }
+
+    public string getFullName(string middleName)
+    {
+        return $"{FirstName} {middleName} {LastName}"; 
+    }
 }
