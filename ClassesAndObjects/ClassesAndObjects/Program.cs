@@ -32,6 +32,5 @@ else
     Console.WriteLine("Name: " + person.getFullName(middleName));
 }
 Console.WriteLine($"Age: {person.Age}");
+Console.WriteLine("Year Of Birth: " + DateUtil.YearOfBirth(person.Age));
 Console.WriteLine($"Salary: {person.getSalary()}");
-
-Console.WriteLine();
